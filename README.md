@@ -9,7 +9,7 @@ Data sourced through Kaggle which contains records of Patients in University of 
 https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction/
 
 # Expected Results
-○	Analysis on the indicators to understand the effect of these indicators on heart health.
+○	Analysis on the indicators to understand the effect of these indicators on heart health. 
 ○	A Machine Learning classification model that predicts the presence or absence of a heart disease based on heart health indicators.
 
 
